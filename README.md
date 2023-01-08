@@ -1,4 +1,5 @@
-# array-calculator
+# Array-calculator
+### live website :  https://fadumasaidcodes.github.io/array-calculator/ 
 
 ## simple array calculator website using only HTML, CSS, and JavaScript:
 
